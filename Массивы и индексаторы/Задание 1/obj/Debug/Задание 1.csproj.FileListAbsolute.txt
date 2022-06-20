@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Спасова\-\Массивы и индексаторы\Задание 1\bin\Debug\Задание 1.exe.config
+C:\Users\user\source\repos\Спасова\-\Массивы и индексаторы\Задание 1\bin\Debug\Задание 1.exe
+C:\Users\user\source\repos\Спасова\-\Массивы и индексаторы\Задание 1\bin\Debug\Задание 1.pdb
+C:\Users\user\source\repos\Спасова\-\Массивы и индексаторы\Задание 1\obj\Debug\Задание 1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Спасова\-\Массивы и индексаторы\Задание 1\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Спасова\-\Массивы и индексаторы\Задание 1\obj\Debug\Задание 1.exe
+C:\Users\user\source\repos\Спасова\-\Массивы и индексаторы\Задание 1\obj\Debug\Задание 1.pdb
