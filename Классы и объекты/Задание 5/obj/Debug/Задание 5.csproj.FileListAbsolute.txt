@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Спасова\-\Классы и объекты\Задание 5\bin\Debug\Задание 5.exe.config
+C:\Users\user\source\repos\Спасова\-\Классы и объекты\Задание 5\bin\Debug\Задание 5.exe
+C:\Users\user\source\repos\Спасова\-\Классы и объекты\Задание 5\bin\Debug\Задание 5.pdb
+C:\Users\user\source\repos\Спасова\-\Классы и объекты\Задание 5\obj\Debug\Задание 5.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Спасова\-\Классы и объекты\Задание 5\obj\Debug\Задание 5.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Спасова\-\Классы и объекты\Задание 5\obj\Debug\Задание 5.exe
+C:\Users\user\source\repos\Спасова\-\Классы и объекты\Задание 5\obj\Debug\Задание 5.pdb
