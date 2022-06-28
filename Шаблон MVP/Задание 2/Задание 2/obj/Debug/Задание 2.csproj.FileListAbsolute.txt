@@ -1,0 +1,15 @@
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\bin\Debug\Задание 2.exe.config
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\bin\Debug\Задание 2.exe
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\bin\Debug\Задание 2.pdb
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\obj\Debug\Задание 2.csprojAssemblyReference.cache
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\obj\Debug\MainWindow.g.cs
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\obj\Debug\App.g.cs
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\obj\Debug\Задание 2_MarkupCompile.cache
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\obj\Debug\Задание 2_MarkupCompile.lref
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\obj\Debug\MainWindow.baml
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\obj\Debug\Задание 2.g.resources
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\obj\Debug\Задание_2.Properties.Resources.resources
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\obj\Debug\Задание 2.csproj.GenerateResource.cache
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\obj\Debug\Задание 2.csproj.CoreCompileInputs.cache
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\obj\Debug\Задание 2.exe
+C:\Users\spa-a\source\repos\Шаблон MVP\Задание 2\Задание 2\obj\Debug\Задание 2.pdb
