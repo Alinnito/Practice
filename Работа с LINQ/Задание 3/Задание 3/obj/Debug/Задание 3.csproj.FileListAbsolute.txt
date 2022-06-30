@@ -1,0 +1,7 @@
+C:\Users\spa-a\OneDrive\Рабочий стол\Работа с LINQ\Задание 3\Задание 3\bin\Debug\Задание 3.exe.config
+C:\Users\spa-a\OneDrive\Рабочий стол\Работа с LINQ\Задание 3\Задание 3\bin\Debug\Задание 3.exe
+C:\Users\spa-a\OneDrive\Рабочий стол\Работа с LINQ\Задание 3\Задание 3\bin\Debug\Задание 3.pdb
+C:\Users\spa-a\OneDrive\Рабочий стол\Работа с LINQ\Задание 3\Задание 3\obj\Debug\Задание 3.csprojAssemblyReference.cache
+C:\Users\spa-a\OneDrive\Рабочий стол\Работа с LINQ\Задание 3\Задание 3\obj\Debug\Задание 3.csproj.CoreCompileInputs.cache
+C:\Users\spa-a\OneDrive\Рабочий стол\Работа с LINQ\Задание 3\Задание 3\obj\Debug\Задание 3.exe
+C:\Users\spa-a\OneDrive\Рабочий стол\Работа с LINQ\Задание 3\Задание 3\obj\Debug\Задание 3.pdb
